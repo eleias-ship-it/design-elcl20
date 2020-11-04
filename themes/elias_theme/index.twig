@@ -27,22 +27,21 @@
 <!-- "Widescreen-mode" can be activated in portfolio/config/config.yml -->
 <body{% if config.theme_config.widescreen %} class="widescreen"{% endif %}>
     <div class="header" role="banner">
-
-            <a class="nav-toggle" id="nav-toggle" title="Toggle Menu" role="button" aria-controls="nav" aria-expanded="false" tabindex="1">
-                <i class="fa fa-bars" aria-hidden="true" id="toggler"></i>
-                <span class="sr-only">Toggle Menu</span>
-            </a>
-            <div class="nav">
-                <div id="nav" role="navigation" tabindex="-1">
-                    <ul>
-                        {% for page in pages(depthOffset=-1) if page.title and not page.hidden %}
-                            <li{% if page.id == current_page.id %} class="active"{% endif %}>
-                                <a href="{{ page.url }}">{{ page.title }}</a>
-                            </li>
-                        {% endfor %}
-                    </ul>
-                </div>
+        <a class="nav-toggle" id="nav-toggle" title="Toggle Menu" role="button" aria-controls="nav" aria-expanded="false" tabindex="1">
+            <i class="fa fa-bars" aria-hidden="true" id="toggler"></i>
+            <span class="sr-only">Toggle Menu</span>
+        </a>
+        <div class="nav">
+            <div id="nav" role="navigation" tabindex="-1">
+                <ul>
+                    {% for page in pages(depthOffset=-1) if page.title and not page.hidden %}
+                        <li{% if page.id == current_page.id %} class="active"{% endif %}>
+                            <a href="{{ page.url }}">{{ page.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
             </div>
+        </div>
         <div class="container">
             {% if pages["_meta"].meta.logo %}
                 <div class="logo" aria-hidden="true">

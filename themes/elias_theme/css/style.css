@@ -98,7 +98,8 @@ body {
 }
 
 .logo img {
-    min-width: 4.8em;
+    min-width: 8em;
+    min-height: 8em;
 }
 
 .logo+.title h1 {
@@ -129,14 +130,14 @@ body {
 }
 
 .nav a, .nav-toggle {
-    color: rgb(86, 86, 86);
-    border: 2px solid rgb(86, 86, 86);
+    color: #385F84;
+    border: 2px solid #385F84;
     border-radius: 45px;
     padding: 15px;
 }
 
 .nav .active a, .nav a:hover, .nav-toggle:hover {
-    color: #3b440d;
+    /* background-color: #ededed; */
 }
 
 .nav a:hover, .nav-toggle:hover {
@@ -159,7 +160,7 @@ body {
 }
 
 .flash-img {
-    height: 100%;
+    height: 100px;
 }
 
 /*** BASIC LAYOUT: FOOTER ***/

@@ -1,5 +1,5 @@
 ---
-Logo: image/Elias_BW_lighter.jpg
+Logo: image/Elias_BW_dark_small.jpg
 Tagline: Better die trying than trying to die
 Social:
     - title: Link till sidans github repo.
