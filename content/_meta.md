@@ -1,8 +1,11 @@
 ---
-Logo: image/leaf_256x256.png
-Tagline: My portfolio.
+Logo: image/Elias_BW_lighter.jpg
+Tagline: Better die trying than trying to die
 Social:
     - title: Link till sidans github repo.
-      url: https://github.com/dbwebb-se/design-v3
+      url: https://github.com/eleias-ship-it/design-elcl20
+      icon: github
+    - title: En annan länk.
+      url: https://github.com/eleias-ship-it/design-elcl20
       icon: github
 ---
