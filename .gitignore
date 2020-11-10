@@ -5,6 +5,7 @@
 # Windows
 Thumbs.db
 desktop.ini
+node_modules
 
 # Mac OS X
 .DS_Store
