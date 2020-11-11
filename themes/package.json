@@ -1,0 +1,34 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "stylelint \"**/*.scss\"",
+    "style": "sass elias_theme/scss/style.scss elias_theme/css/style.css --no-source-map",
+    "style-min": "sass elias_theme/scss/style.scss elias_theme/css/style.min.css --no-source-map --style compressed",
+    "watch": "sass elias_theme/scss/style.scss elias_theme/css/style.css --no-source-map --watch"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eleias-ship-it/design-elcl20.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eleias-ship-it/design-elcl20/issues"
+  },
+  "homepage": "https://github.com/eleias-ship-it/design-elcl20#readme",
+  "devDependencies": {
+    "normalize.css": "^8.0.1",
+    "sass": "^1.29.0",
+    "stylelint": "^13.7.2",
+    "stylelint-config-sass-guidelines": "^7.1.0"
+  },
+  "description": "",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1"
+  }
+}

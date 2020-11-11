@@ -6519,7 +6519,7 @@ body {
 }
 
 .main {
-  padding: 3em 0 4em;
+  padding: 5em 0 4em;
 }
 
 .container {
@@ -6544,7 +6544,7 @@ body {
 
 .title, .logo {
   float: left;
-  padding: 3em 3em 5em 0;
+  padding: 3em 3em 3em 0;
 }
 
 .title * {
@@ -6662,12 +6662,11 @@ body {
   }
 
   .title, .logo {
-    padding: 3em 1.5em 2em 0;
+    padding: 2em 1.5em 2em 0;
   }
 
   .logo {
     height: 8.8em;
-    padding: 3em 1.5em 9em 0;
   }
 
   .nav {
@@ -7060,16 +7059,7 @@ h6 {
 }
 
 .fas {
-  font-size: 3.2360679804em;
-  color: #333;
-}
-
-.fas:hover {
-  font-size: 4.8541019705em;
-  color: #333;
-}
-
-.logo img {
-  width: 17.4747670382em;
-  height: 10.8em;
+  font-size: 2em;
+  color: #333333;
+  color: white;
 }

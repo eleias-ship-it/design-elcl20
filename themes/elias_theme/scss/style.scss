@@ -1,3 +1,57 @@
+@import '../../shared/fontawesome/scss/fontawesome';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+@import '../../shared/fontawesome/scss/brands';
+@import '../../shared/fontawesome/scss/solid';
+@import '../../shared/fontawesome/scss/regular';
+
+
 $base-color: #00c2d3;
+$icon-colour: #333;
+$icon-size: 1em;
+
+$phi: 1em;
+@for $i from 1 through 20 {
+    $phi: 1 / (1 + $phi);
+}
+
+$phi: $phi + 1;
+
+$phin: 0;
+@for $i from 1 through 20 {
+    $phin: 1 / (1 + $phin);
+}
+
+$phin: $phin + 1;
+
 
 @import '../../shared/scss/base';
+@import 'old';
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Montserrat&display=swap');
+
+* {
+    font-family: 'Karla', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6, {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.fas {
+    font-size: $phi * 2;
+    color: $icon-colour;
+}
+
+.fas:hover {
+    font-size: $phi * 3;
+    color: $icon-colour;
+}
+
+.logo img {
+    width: 10.8em * $phin;
+    height: 10.8em;
+}
