@@ -14,7 +14,7 @@ Intressant fråga om förutfattade meningar. Personligen när jag scrollar runt 
 
 Det gick mycket bra att styla denna sida. Det är en lättnad att få en struktur så att jag ser hur man bör göra och inte själv gissa sig fram, som i htmlphp. TIL är denna sidas mediakonfiguration. Jag har undrat hur man gör de intraktiva menyiconerna som släpper ner ett draperi av navigeringknappar istället för att endast ha en mindre navbar.
 
-##kmom01
+##kmom02
 
 De features som jag har använt i detta kmom är:
 
