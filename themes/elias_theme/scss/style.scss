@@ -4,11 +4,14 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/solid';
 @import '../../shared/fontawesome/scss/regular';
 
+$base-color: #00c2d3 !default;
+$icon-colour: #333 !default;
+$icon-size: 1em !default;
 
-$base-color: #00c2d3;
-$icon-colour: #333;
-$icon-size: 1em;
-
+@import '../../shared/scss/base';
+@import 'old';
+@import 'report';
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Montserrat&display=swap');
 $phi: 1em;
 @for $i from 1 through 20 {
     $phi: 1 / (1 + $phi);
@@ -23,10 +26,10 @@ $phin: 0;
 
 $phin: $phin + 1;
 
-
-@import '../../shared/scss/base';
-@import 'old';
-@import url('https://fonts.googleapis.com/css2?family=Karla&family=Montserrat&display=swap');
+.fas {
+    font-size: $phi * 2;
+    color: $icon-colour;
+}
 
 * {
     font-family: 'Karla', sans-serif;
@@ -39,16 +42,6 @@ h4,
 h5,
 h6, {
     font-family: 'Montserrat', sans-serif;
-}
-
-.fas {
-    font-size: $phi * 2;
-    color: $icon-colour;
-}
-
-.fas:hover {
-    font-size: $phi * 3;
-    color: $icon-colour;
 }
 
 .logo img {

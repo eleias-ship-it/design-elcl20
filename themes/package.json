@@ -7,7 +7,7 @@
     "lint": "stylelint \"**/*.scss\"",
     "style": "sass elias_theme/scss/style.scss elias_theme/css/style.css --no-source-map",
     "style-min": "sass elias_theme/scss/style.scss elias_theme/css/style.min.css --no-source-map --style compressed",
-    "watch": "sassnpm/scss/style.scss elias_theme/css/style.css --no-source-map --watch"
+    "watch": "sass elias_theme/scss/style.scss elias_theme/css/style.css --no-source-map --watch"
   },
   "repository": {
     "type": "git",
