@@ -1,6 +1,8 @@
 .landingpage-kmom {
+    max-width: 68em;
+    margin: 0 auto;
     display: grid;
-    // grid-template-columns: 150px 1fr 1fr 1fr;
+    grid-template-columns: 150px  1fr 1fr 1fr;
     padding: 20px;
 }
 
@@ -31,7 +33,7 @@
 
 @media (max-width: 960px) {
     .landingpage-kmom {
-        grid-column: 1fr;
+        grid-template-columns: 1fr;
     }
 
     .sidebarflex {
