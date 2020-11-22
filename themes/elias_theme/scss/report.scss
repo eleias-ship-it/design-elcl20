@@ -14,7 +14,7 @@
 }
 
 .kmom-box {
-    box-shadow: 0px 2px 4px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
     border: 1px solid rgba(0, 0, 0, 0.1);
     grid-column: span 1;
     display: flex;
@@ -25,13 +25,13 @@
 }
 
 .kmom-box a:nth-child(1) {
-    background-color: grey;
-    padding: 20px 20px 0 20px;
-    color: white;
+    background-color: #808080;
+    padding: 20px 20px 0;
+    color: #fff;
 }
 
 .kmom-box a:nth-child(1) h2 {
-    color: white;
+    color: #fff;
 }
 
 .kmom-box p {
