@@ -7186,3 +7186,7 @@ h6 {
   width: 17.4747670382em;
   height: 10.8em;
 }
+
+.me-img {
+  max-width: 30%;
+}

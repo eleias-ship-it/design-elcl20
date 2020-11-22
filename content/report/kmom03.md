@@ -22,7 +22,7 @@ Report page
 
 Tidigare i kurser htmlphp så användes flex och grid i förbifarten med en ungefärlig förklaring likt: "Man kan avnända flexbox för att sortera child-element på ett smart vis". Detta räckte knappast för att förstå innebörden av verktygen och jag hade inte avsatt tid till att djupdyka i de två verktygen. Detta medförde en hel det frustration när jag tidigare försökt använda de båda metoderna. Så jag kan verkligen medge att det har varit en lättnad att få jobba igenom metoderna och få en skaplig grund för att använda dem.
 
-Det gick bra att arbeta, de länkade artiklarna var tydliga och bra att läsa ur. Alla kmom-sidor har nu samma layout som importeras i style.scss från kmom.scss. Så jag har nu ett gäng av totalt 6 stycken moduler som importeras i style.scss. Jag har alltså två layouter för rapportsidan. En för landningssidan och en för de individuella sidorna. 
+Det gick bra att arbeta, de länkade artiklarna var tydliga och bra att läsa ur. Alla kmom-sidor har nu samma layout som importeras i style.scss från kmom.scss. Så jag har nu ett gäng av totalt 6 stycken moduler som importeras i style.scss. Jag har alltså två layouter för rapportsidan. En för landningssidan och en för de individuella sidorna.
 
 Jag nöjde mig med att ändra layout för rapportsidan och kmomsidorna. Jag kommer nog fixa och ändra i index.twig senare under kursmomenten när jag får mer koll på roliga funktioner.
 
