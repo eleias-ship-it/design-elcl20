@@ -11,6 +11,7 @@ $icon-size: 1em !default;
 @import '../../shared/scss/base';
 @import 'old';
 @import 'report';
+@import 'kmom';
 @import url('https://fonts.googleapis.com/css2?family=Karla&family=Montserrat&display=swap');
 $phi: 1em;
 @for $i from 1 through 20 {
