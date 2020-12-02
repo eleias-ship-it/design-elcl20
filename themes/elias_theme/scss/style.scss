@@ -1,31 +1,14 @@
+@import '../../shared/scss/base';
 @import '../../shared/fontawesome/scss/fontawesome';
 $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/brands';
 @import '../../shared/fontawesome/scss/solid';
 @import '../../shared/fontawesome/scss/regular';
 
-$base-color: #00c2d3 !default;
-$icon-colour: #333 !default;
-$icon-size: 1em !default;
-
-@import '../../shared/scss/base';
 @import 'old';
 @import 'report';
 @import 'kmom';
 @import url('https://fonts.googleapis.com/css2?family=Karla&family=Montserrat&display=swap');
-$phi: 1em;
-@for $i from 1 through 20 {
-    $phi: 1 / (1 + $phi);
-}
-
-$phi: $phi + 1;
-
-$phin: 0;
-@for $i from 1 through 20 {
-    $phin: 1 / (1 + $phin);
-}
-
-$phin: $phin + 1;
 
 .fas {
     font-size: $phi * 2;

@@ -11,6 +11,12 @@ Social:
     - title: Länk skaparens Instagram VA.
       url: https://www.instagram.com/eliasclaesson/
       icon: fab fa-instagram
+    - title: Dark Mode
+      url: ?action=theme
+      icon: fas fa-moon
+    - title: Destroy Session
+      url: ?action=session_destroy
+      icon: fas fa-trash-alt
 interest:
     - title: Cross country skiing   
       icon: fas fa-skiing-nordic

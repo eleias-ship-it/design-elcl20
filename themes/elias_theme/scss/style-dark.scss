@@ -1,0 +1,87 @@
+@import '../../shared/fontawesome/scss/fontawesome';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+@import '../../shared/fontawesome/scss/brands';
+@import '../../shared/fontawesome/scss/solid';
+@import '../../shared/fontawesome/scss/regular';
+@import '../../shared/scss/base';
+@import 'old';
+@import 'report';
+@import 'kmom';
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Montserrat&display=swap');
+
+.fas {
+    font-size: $phi * 2;
+    color: $base-color-dark-text;
+}
+
+* {
+    font-family: 'Karla', sans-serif;
+}
+
+.auto h1 {
+    color: #181818;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6, {
+    font-family: 'Montserrat', sans-serif;
+    color: $base-color-dark-text;
+}
+
+.logo img {
+    width: 10.8em * $phin;
+    height: 10.8em;
+}
+
+.me-img {
+    max-width: 30%;
+}
+
+.design-img {
+    max-width: 100%;
+}
+
+.main,
+.header {
+    background-color: $base-color-dark;
+    color: $base-color-dark-text;
+}
+
+.header p,
+.header h1,
+.header h2,
+.header h3,
+.header h4,
+.header h5,
+.header h6 {
+    color: $base-color-dark-text;
+}
+
+.auto.alert, .auto.alert h1 {
+    background-color: $banner-color-dark;
+}
+
+.auto.alert a {
+    color: $base-color-dark-text;
+}
+
+.footer a, .footer p {
+    color: $base-color-dark-text;
+}
+
+.footer {
+    background-color: $banner-color-dark;
+}
+
+.nav a {
+    color: $base-color-dark-text;
+}
+.nav a:hover {
+    color: #c9c9d8;
+    border-color: #c9c9d8;
+}

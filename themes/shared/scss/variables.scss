@@ -1,3 +1,22 @@
-$base-color: #00f !default; //blue
+$base-color: #3ea9ad !default; //blue
 $border-dark: rgba($base-color, 0.88) !default;
 $alert-box-size: 600 !default;
+$base-color-dark: #181818 !default;
+$base-color-dark-text: #AFBDC7 !default;
+$icon-colour: #333;
+$banner-color-dark: #444444;
+
+
+$phi: 1em;
+@for $i from 1 through 20 {
+    $phi: 1 / (1 + $phi);
+}
+
+$phi: $phi + 1;
+
+$phin: 0;
+@for $i from 1 through 20 {
+    $phin: 1 / (1 + $phin);
+}
+
+$phin: $phin + 1;

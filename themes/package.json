@@ -5,9 +5,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "stylelint \"**/*.scss\"",
-    "style": "sass elias_theme/scss/style.scss elias_theme/css/style.css --no-source-map",
-    "style-min": "sass elias_theme/scss/style.scss elias_theme/css/style.min.css --no-source-map --style compressed",
-    "watch": "sass elias_theme/scss/style.scss elias_theme/css/style.css --no-source-map --watch"
+    "style": "npm run style-light && npm run style-dark",
+    "style-min": "npm run style-light-min && npm run style-dark-min",
+    "style-dark": "sass elias_theme/scss/style-dark.scss elias_theme/css/style-dark.css --no-source-map",
+    "style-dark-min": "sass elias_theme/scss/style-dark.scss elias_theme/css/style-dark.min.css --no-source-map --style compressed",
+    "style-light": "sass elias_theme/scss/style.scss elias_theme/css/style.css --no-source-map",
+    "style-light-min": "sass elias_theme/scss/style.scss elias_theme/css/style.min.css --no-source-map --style compressed",
+    "watch": "sass elias_theme/scss/style.scss:elias_theme/css/style.css elias_theme/scss/style-dark.scss:elias_theme/css/style-dark.css --no-source-map --watch",
+    "watch-min": "sass elias_theme/scss/style.scss:elias_theme/css/style.min.css elias_theme/scss/style-dark.scss:elias_theme/css/style-dark.min.css --no-source-map --watch --style compressed"
   },
   "repository": {
     "type": "git",
