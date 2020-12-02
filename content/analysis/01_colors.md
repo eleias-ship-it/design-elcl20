@@ -9,9 +9,9 @@ IT-bolagens varierande färgfixering
 =======================
 
 
-inledning
+Inledning
 -----------------------
-Denna rapport analyserar färg på tre hemsidor. Resultaten diskuteras i relation till relevant forskning inom färgteori. Rapporten granskar användningen av färg bland tre konsultbolag inom IT-branschen som har arbetar aktivt med studentrekrytering. Slutsaterna är bland annat relevanta för studenter som arbetar inom webbdesign och webbutveckling, men också för andra kosnultbolag som vill initiera en studentrelation i rektuteringssyfte. Användningen av slutsatserna kan ge en ny infallsvinkel på hur konsultbolag använder färg på sina hemsidor.
+Denna rapport analyserar färg på tre hemsidor. Resultaten diskuteras i relation till relevant forskning inom färgteori. Rapporten granskar användningen av färg bland tre konsultbolag inom IT-branschen som har arbetar aktivt med studentrekrytering. Slutsaterna är bland annat relevanta för studenter som arbetar inom webbdesign och webbutveckling, men också för andra kosnultbolag som vill initiera en studentrelation i rekryteringssyfte. Slutsatserna kan ge en ny infallsvinkel på hur konsultbolag använder färg på sina hemsidor.
 
 
 
@@ -26,7 +26,7 @@ Den referensliteratur som används i denna rapport presenteras kort i detta styc
 
 Enligt Cannon(2012) finns tre färgscheman för en tillfredställande färgkombination. Genom att använda Triadic Color Scheme, Compound Color Scheme eller Analogous Color Scheme. Tridiac Color Scheme betyder att man använder de färger som återfås om man placerar en liksidig triangel i en färgcirkel och tar de kulörer som spetsarna pekar på. Compund Color Scheme eller komplementärt färgschema är att plocka färger som är på motsatt placering av färgcirkeln. Analogous Color Scheme är baserad på en personlig avvägning och noga urval av kulör. Oftast används olika nivåer av vibrancy eller kontrast för att få en tillfredställande känsla. Genom att använda någon eller några av dessa teorier kan visuell harmoni skapas för ögat.
 
-Morgan(2015) talar om minimalistisk eller monochromatiskt färgpalett. Hon menar att med  mindre information eller innehåll på en sida är det lättare att uppmärksamma färgpalletten. Syftet är att inte designen ska vara överlägset innehållet och skapa onödig röra. Accentfärger är de färger som är avsedda att göra ett särskillt eftertryck på en sida. I en monochromatiskt designad hemsida finns oftast endast en eller två accentfärger.
+Morgan(2015) talar om minimalistisk eller monochromatiskt färgpalett. Hon menar att med  mindre information eller innehåll på en sida är det lättare att färgpalletten hamnar i fokus. Syftet är att inte designen ska vara överlägset innehållet och skapa onödig röra, utan att skapa ett samspel mellan färger och innehåll. Accentfärger är de färger som är avsedda att göra ett särskillt eftertryck på en sida. I en minimalistiskt designad hemsida finns oftast endast en eller två accentfärger. Ett monochromatiskt färgschema innebär max en kulör men nyanserna kan variera.
 
 Typsnittet påverkar känslan en läsare har och kan skilja mellan brödtext och rubriker för at skapa dynamik. Två standardkategorier inom webbprogrammering är sans-serif eller serif. Morgan (2015) menar att användandet av drastisk typografi kan förstärka känslor på minimalistiska vyer. Det är också ett sätt att kommuniera syftet av budskapet.
 
@@ -51,7 +51,7 @@ Metod
 -----------------------
 Då en hemsidas homepage är den sida som en användare först får uppleva när denne besöker en hemsida, är det en rimlig plats att använda för att hämta resultaten i denna rapport. Navigeringsmenyer används frekvent av en besökare, varför också elementet är en central del i studien.
 
-Resultaten inhämtas i form av bilder från konsultbolagens homepage utan att scrolla horisontellt eller vertikalt. Bilden som senare analyseras, är alltså då den första vy som en besökare stöter på så fort sidan laddas. Studien avser att på detta vis, potentiellt dra slutsatser om de färger som används som bidrar till en besökares första intryck. Bilderna hämtades 01-12-20.
+Resultaten inhämtas i form av bilder från konsultbolagens homepage utan att scrolla horisontellt eller vertikalt. Bilden som senare analyseras, är alltså då den första vy som en besökare stöter på så fort sidan laddas. Studien avser att på detta vis, potentiellt dra slutsatser om de färger vilka används som bidrar till en besökares första intryck. Bilderna hämtades 01-12-20.
 
 
 Resultat
@@ -94,7 +94,7 @@ Det kan konstateras i bilden ovan att Capgeminis hemsida har följande färgpale
 </tr>
 </table>
 
-Även detta färgschema har fem tydliga kulörer. Antalet accentfärger är likt Excetecs sidan, endast en. Typografin på de olika texter samt navigeringsknappar är utav typen sans-serif och undantaget är loggan uppe i det vänstra hörnet. Den är skriven i en ren skrivstlsfont. Sidan innehåller även en stor mängd nyanser av grått samt stor delar vita områden. Navigeringsknapparna består av nr kulör nr 2 med vit bakgrund. Själva innehållet på förstasidan består av en texten "Data-driven R&D for life sciences" och är det budskap som bolaget har satt i för att ge en besökare det första intrycket. fontfamiljen är:  sans-serif;.
+Även detta färgschema har fem tydliga kulörer. Antalet accentfärger är likt Excitec sidan, endast en. Typografin på de olika texter samt navigeringsknappar är utav typen sans-serif och undantaget är loggan uppe i det vänstra hörnet. Den är skriven i en ren skrivstilsfont. Sidan innehåller även en stor mängd nyanser av grått samt stor delar vita områden. Navigeringsknapparna består av kulör nr 2 med vit bakgrund. Själva innehållet på förstasidan består av en texten "Data-driven R&D for life sciences" och är det budskap som bolaget försöker sätta i fokus för att ge en besökare det första intrycket. fontfamiljen är:  sans-serif.
 
 
 <br><br>
@@ -118,7 +118,7 @@ Det kan konstateras i bilden ovan att Limes hemsida har följande färgpalett:
 </table>
 
 
-Färgschemat på denna hemsida innehåller nio kulörer. Majoriteten av den vy som homepagen består utav har kulörerna 1-5. Loggan uppe i vänster hörn innehåller fyra accentfärger. En stor del av sidans yta är vit och en mycket liten del av vyn består av accentfärgerna. Den text som finns är utav typografin sans serif. Även loggan har enhetlig font. Innehållet är på Limes sida består av en video samt en paragraf som beskriver företagets övergripande mål och hur de blirvit ledande CRM-leverantörer. Navigeringsknapparna har vit bakgrund med en färglös grå nyans med undantag av knappen "Testa Lime" som är utav kulör nr 4. Fontfamiljen är: 'GalanoGrotesque',Arial,sans-serif.
+Färgschemat på denna hemsida innehåller nio kulörer. Majoriteten av den vy som homepagen består utav har kulörerna 1-5. Loggan uppe i vänster hörn innehåller fyra accentfärger. En stor del av sidans yta är vit och en mycket liten del av vyn består av accentfärgerna. Den text som finns är utav typografin sans serif. Även loggan har enhetlig font. Innehållet är på Limes sida består av en video samt en paragraf som beskriver företagets övergripande mål och hur de blivit ledande CRM-leverantörer. Navigeringsknapparna har vit bakgrund med en färglös grå nyans med undantag av knappen "Testa Lime" som är utav kulör nr 4. Fontfamiljen är: 'GalanoGrotesque',Arial,sans-serif.
 
 
 
@@ -136,9 +136,9 @@ Den blå och oranga accentfärgerna i Limes färgpalett har godtyckligen motsatt
 
 
 <h3 style="grid-column: 2/4;">Typ av färgpalett</h3>
-Excitec har minimalistisk färgpalett med en accentfärg och fyra nyanser av blått. Hemsidan använder sedan sin accentfärg för att betona knappen "kommande inspirationsevent". På detta sätt framhäver sidan de kommande eventen med accentfärgen på ett sätt som Moran(2015) beskriver.  
+Excitec har minimalistisk färgpalett med en accentfärg och fyra nyanser av blått. Hemsidan använder sedan sin accentfärg för att betona knappen "kommande inspirationsevent". På detta sätt framhäver sidan de kommande eventen med accentfärgen på ett sätt som Moran(2015) beskriver som lämpligt och effektivt.  
 
-Capgemini har likt Excitec en minimalistisk färgpalett med en accentfärg. Misstaget, eller det företaget går misste om, är att accentfärgen inte används för att fokusera besökarens uppmärksamhet till någon specifik infomration eller något särskillt budskap. Den gröna färgklicken är en del av den högerliggande bilden som bland annat symboliser snabb teknisk innovation.   
+Capgemini har likt Excitec en minimalistisk färgpalett med en accentfärg. Misstaget, eller det företaget går misste om, är att accentfärgen inte används för att fokusera besökarens uppmärksamhet till någon specifik information eller något särskillt budskap. Den gröna accentfärgen är en del av den högerliggande bilden som bland annat symboliser snabb teknisk innovation. Den hade kunnat användas för att markera innehåll.   
 
 Det finns två sätt att tolka Limes färgpalett. Antingen är den monochromatisk, eftersom de fyra accentfärgerna endast återfinns i den relativt lilla loggan. Det går också att resonera att hemsidan är inte är minimalistisk då den har fyra accentfärger. Oavsett vilket så använder sidan ingen av sina accentfärger för att understryka någon del av sin hemsida. Sidan går alltså miste om en möjlighet att visuellt förstärka ett budskap eller en bit information som Lime anser extra viktig.  
 
@@ -146,14 +146,14 @@ Det finns två sätt att tolka Limes färgpalett. Antingen är den monochromatis
 När en sida använder minimalistisk färgpalett är det enligt Moran(2015) viktit att använda tillräcklig kontrast för att det inte ska vara ansträngande för en läsare. Samtliga tre hemsidor i denna rapport använder minimalistisk färgpalett och ingen av dem går i fällan av att använda bristande kontrast, utifrån vad som framgår på bilderna i resultatkapitlet.
 
 <h3 style="grid-column: 2/4;">Tyopgrafi</h3>
-Alla tre hemsidor har typsnitt av familjens sans-serif. Capgemini och Excitec använder en avvikande font för sina logtyper eller företagsnamn. De tre hemsidorna har olika storlekar på headings och brödtext, men enhetliga fonter. Lime har samma genomgående font på hela förstasidan. Med avstamp i Moran(2015) så betyder detta att förmedlar Excitec och Capgemini avser förmedla en känsla eller ett budskap med fonterna i respektive logga. Samtidigt har Lime inte någon sådan ambition. Inget av företagen har har fonter som ligger långt ifrån "vanliga" fonter, alltså ingen riskerar att förmedla ett budskap som kan tolkas på många olika sätt. En skrivstilsliknande font symboliserar snarare elegans, finkänslighet eller en stadig hand vilket är positiva egenskaper för konsultbolag att associeras med.
+Alla tre hemsidor har typsnitt av familjens sans-serif. Capgemini och Excitec använder en avvikande font för sina logtyper eller företagsnamn. De tre hemsidorna har olika storlekar på headings och brödtext, men enhetliga fonter. Lime har samma genomgående font på hela förstasidan. Med avstamp i Moran(2015) så betyder detta att Excitec och Capgemini avser förmedla en känsla eller ett budskap med fonterna i respektive logga. Samtidigt har Lime inte någon sådan ambition. Inget av företagen har fonter som ligger långt ifrån "vanliga" fonter. Alltså riskerar ingen att förmedla ett budskap som kan tolkas på många olika sätt och på sätt som företagen inte är angelägna om. En skrivstilsliknande font symboliserar snarare elegans, finkänslighet eller en stadig hand vilket är positiva egenskaper för konsultbolag att associeras med.
 
 Personligen anser jag att Capgemini och Excitec båda förmedlar det budskap som de har för avsikt att göra. Däremot finns det i Limes fall flera förbättringsmöjligheter. Både bättre användning av accentfärger och typografi skulle förhöja förstasidan.
 
 
 Slutsats och diskussion
 -----------------------
-I denna rapport kan det konstateras att Excitec och Campgemini använder färger för att färstärka budskap eller information som företaget rimligen anser som viktig. Lime har färgteoretisk flera förbättringsmöjligheter. Samtliga sidor använder minimalistiska färgpaletter och trenden är att Analogous Color Scheme är den som används i störst utsträckning. Slutsatserna kan användas som indikationer eller en fingervisning till hur IT-konsultbolag som aktivt arbetar med studentrekrytering bör använda färger på sina hemsidor. Det är inte lämpligt att generalisera dessa slutsatser på alla hemsidor på grund av urvalet.  
+I denna rapport kan det konstateras att Excitec använder färger för att färstärka budskap eller information som företaget rimligen anser som viktig. Lime och Capgemini har färgteoretisk flera förbättringsmöjligheter. Samtliga sidor använder minimalistiska färgpaletter och trenden är att Analogous Color Scheme är den som används i störst utsträckning. Excitec och Capgemini använder framgångsrikt en unik skrivstilsfont för företagslogotypen som förmedlar egenskaper som är positiva för konsultbolag att associeras med. Slutsatserna kan användas som indikationer eller en fingervisning till hur IT-konsultbolag som aktivt arbetar med studentrekrytering bör använda färger på sina hemsidor. Det är inte lämpligt att generalisera dessa slutsatser på alla hemsidor på grund av urvalet.  
 
 
 
