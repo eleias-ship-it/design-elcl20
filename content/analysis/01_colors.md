@@ -59,13 +59,13 @@ Resultat
 
 De tre hemsidorna refereras till som: Capgemini, Excitec och Lime.<br>
 
-<h3 style="grid-column: 2/4; color: #BB0C5F">Excitec</h3>
+<h3 style=" color: #BB0C5F">Excitec</h3>
 
 ![Excitec](%assets_url%/img/Excitec.jpg)
 
 Det kan konstateras i bilden ovan att Excitecs hemsida har följande färgpalett:
 
-<table style="border-spacing: 4px; grid-column: 2/4;">
+<table style="border-spacing: 4px; ">
 <tr>
 <td style="text-align: center; color: white; height: 50px; width: 50px; background-color: #BB0C5F">1
 <td style="text-align: center; color: white; height: 50px; width: 50px; background-color: #455F80">2
@@ -78,13 +78,13 @@ Det kan konstateras i bilden ovan att Excitecs hemsida har följande färgpalett
 Antalet kulörer är fem. Färgschemat innehåller endast en accentfärg, vilket är nr ett ovan. Typografin är utav typen sans-serif i all text på förstasidan. Fontent på företagets logga uppe i vänster hörn är skilt från resterande text och har en viss skrivstilskänsla. Navigeringsmenyn består av färschemats femte färg och har färgschemats andra färg som bakgrund. Innehållet och den information som framställs på första sidan är minimal. Det viktigaste budskapet står skrivet i större font på vyns övre mitt. Fontfamiljen är: "Overpass", Helvetica, Verda.    
 
 <br><br>
-<h3 style="grid-column: 2/4; color: #0070AD">Capgemini</h3>
+<h3 style=" color: #0070AD">Capgemini</h3>
 
 ![Capgemini](%assets_url%/img/Capgemini.jpg)
 
 Det kan konstateras i bilden ovan att Capgeminis hemsida har följande färgpalett:
 
-<table style="border-spacing: 4px; grid-column: 2/4;">
+<table style="border-spacing: 4px; ">
 <tr>
 <td style="text-align: center; color: white; height: 50px; width: 50px; background-color: #00033A">1
 <td style="text-align: center; color: white; height: 50px; width: 50px; background-color: #0070AD">2
@@ -98,12 +98,12 @@ Det kan konstateras i bilden ovan att Capgeminis hemsida har följande färgpale
 
 
 <br><br>
-<h3 style="grid-column: 2/4; color: #75AD26">Lime</h3>
+<h3 style=" color: #75AD26">Lime</h3>
 ![Lime](%assets_url%/img/Lime.jpg)
 
 Det kan konstateras i bilden ovan att Limes hemsida har följande färgpalett:
 
-<table style="border-spacing: 4px; grid-column: 2/4;">
+<table style="border-spacing: 4px; ">
 <tr>
 <td style="text-align: center; color: black; height: 50px; width: 50px; background-color: #DAF8BF">1
 <td style="text-align: center; color: black; height: 50px; width: 50px; background-color: #BAEB91">2
@@ -126,7 +126,7 @@ Analys
 -----------------------
 Analysen består av kopplingar och paralleller som är möjliga att dra mellan de teorier som ingår i referensramen och de resultat som noterats i rapporten. Det ska tilläggas att generaliserbarheten av denna raport är låg, framförallt då urvalets storlek är låg. Det finns även andra färgteorier som kan ge potentiellt starkare analyser men som denna rapport, på grund av tidsramen för uppgiften inte tillåtits inhämtats.
 
-<h3 style="grid-column: 2/4;">Färgschema</h3>
+<h3>Färgschema</h3>
 
 Excitecs färgpalett använder Analogous Color Theme som Cannon(2012) beskriver. Den rosa kulören ligger nära de olika nyanserna av blå i färgcirkeln.
 
@@ -135,7 +135,7 @@ Capgemini har tydliga drag av Analogous Color Scheme eftersom de nyanser av blå
 Den blå och oranga accentfärgerna i Limes färgpalett har godtyckligen motsatta positioner på färgschemat, vilket indikerar Compound Color Scheme (Cannon T, 2012). De resterande kulörerna saknar en tydlig motpart på motsatt sida av färgschemat och den övervägande färgschemat kan således karaktäriseras som Analogous Color Scheme.
 
 
-<h3 style="grid-column: 2/4;">Typ av färgpalett</h3>
+<h3>Typ av färgpalett</h3>
 Excitec har minimalistisk färgpalett med en accentfärg och fyra nyanser av blått. Hemsidan använder sedan sin accentfärg för att betona knappen "kommande inspirationsevent". På detta sätt framhäver sidan de kommande eventen med accentfärgen på ett sätt som Moran(2015) beskriver som lämpligt och effektivt.  
 
 Capgemini har likt Excitec en minimalistisk färgpalett med en accentfärg. Misstaget, eller det företaget går misste om, är att accentfärgen inte används för att fokusera besökarens uppmärksamhet till någon specifik information eller något särskillt budskap. Den gröna accentfärgen är en del av den högerliggande bilden som bland annat symboliser snabb teknisk innovation. Den hade kunnat användas för att markera innehåll.   
@@ -145,7 +145,7 @@ Det finns två sätt att tolka Limes färgpalett. Antingen är den monochromatis
 
 När en sida använder minimalistisk färgpalett är det enligt Moran(2015) viktit att använda tillräcklig kontrast för att det inte ska vara ansträngande för en läsare. Samtliga tre hemsidor i denna rapport använder minimalistisk färgpalett och ingen av dem går i fällan av att använda bristande kontrast, utifrån vad som framgår på bilderna i resultatkapitlet.
 
-<h3 style="grid-column: 2/4;">Tyopgrafi</h3>
+<h3>Tyopgrafi</h3>
 Alla tre hemsidor har typsnitt av familjens sans-serif. Capgemini och Excitec använder en avvikande font för sina logtyper eller företagsnamn. De tre hemsidorna har olika storlekar på headings och brödtext, men enhetliga fonter. Lime har samma genomgående font på hela förstasidan. Med avstamp i Moran(2015) så betyder detta att Excitec och Capgemini avser förmedla en känsla eller ett budskap med fonterna i respektive logga. Samtidigt har Lime inte någon sådan ambition. Inget av företagen har fonter som ligger långt ifrån "vanliga" fonter. Alltså riskerar ingen att förmedla ett budskap som kan tolkas på många olika sätt och på sätt som företagen inte är angelägna om. En skrivstilsliknande font symboliserar snarare elegans, finkänslighet eller en stadig hand vilket är positiva egenskaper för konsultbolag att associeras med.
 
 Personligen anser jag att Capgemini och Excitec båda förmedlar det budskap som de har för avsikt att göra. Däremot finns det i Limes fall flera förbättringsmöjligheter. Både bättre användning av accentfärger och typografi skulle förhöja förstasidan.

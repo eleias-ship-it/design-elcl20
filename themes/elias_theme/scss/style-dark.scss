@@ -3,10 +3,10 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/brands';
 @import '../../shared/fontawesome/scss/solid';
 @import '../../shared/fontawesome/scss/regular';
-@import '../../shared/scss/base';
 @import 'old';
 @import 'report';
 @import 'kmom';
+@import '../../shared/scss/base';
 @import url('https://fonts.googleapis.com/css2?family=Karla&family=Montserrat&display=swap');
 
 .fas {
