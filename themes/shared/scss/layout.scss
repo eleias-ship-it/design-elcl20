@@ -18,7 +18,6 @@
 }
 
 .landingpage-kmom ul,
-.landingpage-kmom h1,
 .landingpage-kmom h2,
 .landingpage-kmom h3,
 .landingpage-kmom h4,
@@ -28,15 +27,22 @@
     grid-column: 2/2;
 }
 
+.landingpage-kmom h1 {
+    grid-column: 2/4;
+}
+
 @media (max-width: 767px) {
     .landingpage-kmom ul,
-    .landingpage-kmom h1,
     .landingpage-kmom h2,
     .landingpage-kmom h3,
     .landingpage-kmom h4,
     .landingpage-kmom h5,
     .landingpage-kmom h6,
     .landingpage-kmom table {
+        grid-column: 1/1;
+    }
+
+    .landingpage-kmom h1 {
         grid-column: 1/1;
     }
 }
