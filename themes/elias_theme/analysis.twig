@@ -6,6 +6,8 @@
     <link rel="icon" href="{{ theme_url }}/../shared/img/favicon.ico">
     <title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
 
+
+
     {% if meta.description %}
         <meta name="description" content="{{ meta.description|striptags }}" />
     {% endif %}
@@ -78,7 +80,7 @@
     <div class="main" role="main">
         <div class="landingpage">
             {{ content }}
-            
+
         </div>
     </div>
     <div class="footer">

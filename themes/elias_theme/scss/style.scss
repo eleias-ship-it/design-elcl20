@@ -40,3 +40,56 @@ h6, {
 .design-img {
     max-width: 100%;
 }
+
+
+.embed {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%;
+    grid-column: 2/4;
+    grid-row: 4/4;
+}
+
+.embed iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+@media (max-width: 767px) {
+    .landingpage-kmom ul,
+    .landingpage-kmom h2,
+    .landingpage-kmom h3,
+    .landingpage-kmom h4,
+    .landingpage-kmom h5,
+    .landingpage-kmom h6,
+    .landingpage-kmom table {
+        grid-column: 1/1;
+    }
+
+    .embed {
+        grid-column: 1/1;
+        grid-row: 4/4;
+    }
+
+    .landingpage-kmom h1 {
+        grid-column: 1/1;
+    }
+}
+
+@media (max-width: 668px) {
+    .gallery {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .embed {
+        grid-column: 1/1;
+        grid-row: 4/4;
+    }
+    .embed iframe {
+        padding: 0;
+    }
+}

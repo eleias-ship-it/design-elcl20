@@ -7188,19 +7188,21 @@ template {
   grid-column: 2/4;
 }
 
-@media (max-width: 767px) {
-  .landingpage-kmom ul,
-.landingpage-kmom h2,
-.landingpage-kmom h3,
-.landingpage-kmom h4,
-.landingpage-kmom h5,
-.landingpage-kmom h6,
-.landingpage-kmom table {
-    grid-column: 1/1;
-  }
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1em 1em;
+  padding: 1em;
+}
 
-  .landingpage-kmom h1 {
-    grid-column: 1/1;
+.chart {
+  max-width: 85%;
+  max-height: 80%;
+}
+
+@media (max-width: 376px) {
+  .gallery {
+    grid-template-columns: 1fr;
   }
 }
 .fas {
@@ -7256,7 +7258,8 @@ h6 {
   color: #AFBDC7;
 }
 
-.auto.alert, .auto.alert h1 {
+.auto.alert,
+.auto.alert h1 {
   background-color: #444444;
 }
 
@@ -7264,7 +7267,8 @@ h6 {
   color: #AFBDC7;
 }
 
-.footer a, .footer p {
+.footer a,
+.footer p {
   color: #AFBDC7;
 }
 
