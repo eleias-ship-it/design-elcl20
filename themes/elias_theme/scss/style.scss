@@ -187,12 +187,11 @@ h6, {
         grid-column: 1/1;
         grid-row: 2/2;
     }
-
 }
 
 @media (max-width: 668px) {
     .gallery {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: 1fr 1fr;
     }
 
     .embed {
@@ -202,5 +201,11 @@ h6, {
 
     .embed iframe {
         padding: 0;
+    }
+}
+
+@media (max-width: 380px) {
+    .gallery {
+        grid-template-columns: 1fr;
     }
 }

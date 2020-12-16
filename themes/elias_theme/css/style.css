@@ -6876,7 +6876,7 @@ input::-moz-focus-inner, button::-moz-focus-inner {
 }
 .landingpage-analysis-article {
   display: grid;
-  padding: 0em 3em;
+  padding: 0 3em;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 0;
   max-width: 52em;
@@ -7498,7 +7498,7 @@ h6 {
 }
 @media (max-width: 668px) {
   .gallery {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr 1fr;
   }
 
   .embed {
@@ -7508,5 +7508,10 @@ h6 {
 
   .embed iframe {
     padding: 0;
+  }
+}
+@media (max-width: 380px) {
+  .gallery {
+    grid-template-columns: 1fr;
   }
 }
