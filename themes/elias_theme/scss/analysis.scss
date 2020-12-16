@@ -1,0 +1,57 @@
+.landingpage-analysis {
+    display: grid;
+    gap: 2em 5em;
+    padding: 0 3em;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.landingpage-analysis h1 {
+    grid-column: span 3;
+    justify-self: center;
+}
+
+.kmom-box.project {
+    grid-column: span 3;
+}
+
+.landingpage-analysis ul,
+.landingpage-analysis h2,
+.landingpage-analysis h3,
+.landingpage-analysis h4,
+.landingpage-analysis h5,
+.landingpage-analysis h6,
+.landingpage-analysis table {
+    grid-column: 1/4;
+}
+
+.landingpage-analysis p img {
+    max-width: 50%;
+    max-height: auto;
+}
+
+.landingpage-analysis p {
+    grid-column: 1/4;
+}
+
+@media (max-width: 767px) {
+    .landingpage {
+        grid-template-columns: 1fr;
+    }
+
+    .sidebarflex {
+        grid-row: 1/2;
+        display: none;
+    }
+
+    .landingpage h2 {
+        grid-column: 1/1;
+    }
+
+    .landingpage h1 {
+        grid-column: 1/1;
+    }
+
+    .landingpage p {
+        grid-column: 1/1;
+    }
+}

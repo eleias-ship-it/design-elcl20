@@ -6699,6 +6699,7 @@ input::-moz-focus-inner, button::-moz-focus-inner {
   display: grid;
   gap: 2em 5em;
   padding: 0 3em;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
 .landingpage h1 {
@@ -7184,6 +7185,20 @@ template {
 .chart {
   max-width: 85%;
   max-height: 80%;
+}
+
+.landingpage ul,
+.landingpage h2,
+.landingpage h3,
+.landingpage h4,
+.landingpage h5,
+.landingpage h6,
+.landingpage table {
+  grid-column: 2/4;
+}
+
+.landingpage p {
+  grid-column: 1/1;
 }
 
 @media (max-width: 376px) {

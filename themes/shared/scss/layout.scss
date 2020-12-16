@@ -29,6 +29,20 @@
     max-height: 80%;
 }
 
+.landingpage ul,
+.landingpage h2,
+.landingpage h3,
+.landingpage h4,
+.landingpage h5,
+.landingpage h6,
+.landingpage table {
+    grid-column: 2/4;
+}
+
+.landingpage p {
+    grid-column: 1/1;
+}
+
 @media (max-width: 376px) {
     .gallery {
         grid-template-columns: 1fr;

@@ -4,7 +4,7 @@ Description: This is our index page for the analysis site.
 template: analysis
 ---
 
-Report page
+Report Analysis page
 ==========================
 
 <div class="kmom-box">

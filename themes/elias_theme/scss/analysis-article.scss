@@ -1,0 +1,60 @@
+.landingpage-analysis-article {
+    display: grid;
+    padding: 0em 3em;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 0;
+    max-width: 52em;
+    margin: 0 auto;
+}
+
+.landingpage-analysis-article h1 {
+    grid-column: span 3;
+    justify-self: center;
+}
+
+.kmom-box.project {
+    grid-column: span 3;
+}
+
+.landingpage-analysis-article ul,
+.landingpage-analysis-article h2,
+.landingpage-analysis-article h3,
+.landingpage-analysis-article h4,
+.landingpage-analysis-article h5,
+.landingpage-analysis-article h6,
+.landingpage-analysis-article table {
+    grid-column: 1/4;
+}
+
+.landingpage-analysis-article p img {
+    max-width: 100%;
+    max-height: auto;
+
+}
+
+.landingpage-analysis-article p {
+    grid-column: 1/4;
+}
+
+@media (max-width: 767px) {
+    .landingpage {
+        grid-template-columns: 1fr;
+    }
+
+    .sidebarflex {
+        grid-row: 1/2;
+        display: none;
+    }
+
+    .landingpage h2 {
+        grid-column: 1/1;
+    }
+
+    .landingpage h1 {
+        grid-column: 1/1;
+    }
+
+    .landingpage p {
+        grid-column: 1/1;
+    }
+}
