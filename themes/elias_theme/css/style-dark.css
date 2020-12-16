@@ -6766,7 +6766,7 @@ input::-moz-focus-inner, button::-moz-focus-inner {
   max-width: 75em;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: 150px 1fr 1fr 1fr;
+  grid-template-columns: 150px 1fr;
   padding: 20px;
 }
 
@@ -7174,20 +7174,6 @@ template {
   background-color: #f0e;
 }
 
-.landingpage-kmom ul,
-.landingpage-kmom h2,
-.landingpage-kmom h3,
-.landingpage-kmom h4,
-.landingpage-kmom h5,
-.landingpage-kmom h6,
-.landingpage-kmom table {
-  grid-column: 2/2;
-}
-
-.landingpage-kmom h1 {
-  grid-column: 2/4;
-}
-
 .gallery {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -7277,7 +7263,7 @@ h6 {
 }
 
 .auto {
-  background-color: #A2B3C3;
+  background-color: #a2b3c3;
 }
 
 .nav {
@@ -7307,7 +7293,7 @@ h6 {
 .nav ul li a:hover {
   margin-left: 0;
   margin-right: 0;
-  color: #A2B3C3;
+  color: #a2b3c3;
   border-left: 0;
   border-right: 0;
 }
