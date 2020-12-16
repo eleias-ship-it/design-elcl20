@@ -98,7 +98,7 @@ Det kan konstateras i bilden ovan att Capgeminis hemsida har följande färgpale
 
 
 <br><br>
-<h3 style=" color: #75AD26">Lime</h3>
+<h3 style=" color: white">Lime</h3>
 ![Lime](%assets_url%/img/Lime.jpg)
 
 Det kan konstateras i bilden ovan att Limes hemsida har följande färgpalett:

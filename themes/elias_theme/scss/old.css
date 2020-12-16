@@ -130,8 +130,8 @@ body {
 }
 
 .nav a, .nav-toggle {
-    color: #385F84;
-    border: 2px solid #385F84;
+    color: #a80000;
+    border: 2px solid #a80000;
     border-radius: 45px;
     padding: 15px;
 }
@@ -141,8 +141,8 @@ body {
 }
 
 .nav a:hover, .nav-toggle:hover {
-    color: #333;
-    border: 2px solid #333;
+    color: #a80000;
+    border: 2px solid #a80000;
     border-radius: 45px;
     padding: 15px;
 }

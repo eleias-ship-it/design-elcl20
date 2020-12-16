@@ -23,7 +23,7 @@ Report page
 FavoritYoutubeSida:<br>
 
 <div class="embed">
-    <iframe width="900" height="506" src="https://www.youtube.com/embed/LO1mTELoj6o?list=WL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe title="Favourite youtube video" width="900" height="506" src="https://www.youtube.com/embed/LO1mTELoj6o?list=WL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -31,4 +31,4 @@ FavoritYoutubeSida:<br>
 
 Jag är en färsk användare av Gimp sedan tidigare. Jag har inte gedigen kunskap om programmet men kan göra enkla operationer. Jag har egentligen ingen fundering kring Cimage utan jag ser det som ett Webbanpassad program skräddarsytt av Mikael som kan utföra relativt enkla men väl behändiga edits direkt i koden.
 
-Innan detta KMOM har jag faktiskt varit en generell internetanvändare i den bemärkelse att jag inte funderat kring olika mediaformat som förekommer på webben. Responsivitet är också ett nytt begrepp. Däremot är det ju självklart så att jag upåfattar en långsam sida negativt och har historiskt varit mycket snabb med att klick bort från en laddning och byta hemsida när jag är på jakt efter information. TIL är begreppen bounce rate och conversionrate och dess koppling till en sidas prestanda. Jag är bekant med teorierna sen tidigare och det är lärorikt att praktiskt få en ny infallsvinkel till de variabler som påverkar måtten. 
+Innan detta KMOM har jag faktiskt varit en generell internetanvändare i den bemärkelse att jag inte funderat kring olika mediaformat som förekommer på webben. Responsivitet är också ett nytt begrepp. Däremot är det ju självklart så att jag upåfattar en långsam sida negativt och har historiskt varit mycket snabb med att klick bort från en laddning och byta hemsida när jag är på jakt efter information. TIL är begreppen bounce rate och conversionrate och dess koppling till en sidas prestanda. Jag är bekant med teorierna sen tidigare och det är lärorikt att praktiskt få en ny infallsvinkel till de variabler som påverkar måtten.
