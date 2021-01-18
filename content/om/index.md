@@ -2,6 +2,19 @@
 Title: About
 Description: This is our index page for the about site.
 template: about
+images:
+    - alt: workers
+      url: member1.jpg&crop-to-fit&aspect-ratio=!1:1
+    - alt: workers
+      url: member2.jpg&crop-to-fit&aspect-ratio=!1:1
+    - alt: workers
+      url: member3.jpg&crop-to-fit&aspect-ratio=!1:1
+    - alt: workers
+      url: member4.jpg&crop-to-fit&aspect-ratio=!1:1
+    - alt: workers
+      url: member5.jpg&crop-to-fit&aspect-ratio=!1:1
+    - alt: workers
+      url: member6.jpg&crop-to-fit&aspect-ratio=!1:1
 ---
 
 About Page

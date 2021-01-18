@@ -6746,6 +6746,19 @@ input::-moz-focus-inner, button::-moz-focus-inner {
   padding-bottom: 0.5em;
 }
 
+.landingpage-kmom h1,
+.landingpage-kmom h2,
+.landingpage-kmom h3,
+.landingpage-kmom h4,
+.landingpage-kmom h5,
+.landingpage-kmom h6 {
+  grid-column: 2/2;
+}
+
+.sidebarflex {
+  grid-column: 1/1;
+}
+
 @media (max-width: 767px) {
   .kmom-box,
 .landingpage h1,
@@ -6850,6 +6863,10 @@ input::-moz-focus-inner, button::-moz-focus-inner {
 
 .landingpage-analysis p {
   grid-column: 1/4;
+}
+
+.landingpage-analysis-article a {
+  color: #123d3d;
 }
 
 @media (max-width: 767px) {

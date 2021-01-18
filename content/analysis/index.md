@@ -22,3 +22,13 @@ Report Analysis page
     <p>Utveckla report-sida</p>
     <a><i class="fas fa-arrow-circle-right"></i></a>
 </div>
+<div class="kmom-box">
+    <a href="analysis/11_design-och-webbplatser"><h2>11_design-och-webbplatser</h2></a>
+    <p>Utveckla report-sida</p>
+    <a><i class="fas fa-arrow-circle-right"></i></a>
+</div>
+<div class="kmom-box">
+    <a href="analysis/10_webbplatsdesign"><h2>10_webbplatsdesign</h2></a>
+    <p>Utveckla report-sida</p>
+    <a><i class="fas fa-arrow-circle-right"></i></a>
+</div>

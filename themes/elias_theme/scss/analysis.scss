@@ -33,6 +33,10 @@
     grid-column: 1/4;
 }
 
+.landingpage-analysis-article a {
+    color: #123d3d;
+}
+
 @media (max-width: 767px) {
     .landingpage {
         grid-template-columns: 1fr;
